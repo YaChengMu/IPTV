@@ -32,8 +32,8 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.07.13 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.03.04 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -49,8 +49,8 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhumeng11/IPTV/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/zhumeng11/IPTV/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
   - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
